@@ -3,13 +3,13 @@ We need to find two indices in the array such that the sum of their values equal
 A brute-force way is to check all possible pairs and return the first one that satisfies the condition.
 
 # Approach
-Use a nested loop to check every unique pair (i, j) where i < j.
-If nums[i] + nums[j] == target, store the indices in a dynamically allocated array and return it.
+Use a nested loop to check every unique pair `(i, j)` where `i < j`.
+If `nums[i] + nums[j] == target`, store the indices in a dynamically allocated array and return it.
 
 
 
 # Complexity
-- **Time complexity:** O(n^2)
+- **Time complexity:** `O(n^2)`
 Two nested loops lead to quadratic time in the worst case, where all pairs are checked.
 
 - **Space complexity:** Aside from the returned array (which is constant-sized), no extra memory is used.
