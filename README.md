@@ -17,7 +17,7 @@ Each problem is organized into its own folder:
 
 - **README.md** → Problem statement  
 - **`question-name.c`** → Code implementation  
-- **solution.md** → Intuition, approach, complexity analysis, and Code
+- **solution.md** → Intuition, approach, complexity analysis, and code
 
 ---
 
