@@ -125,4 +125,8 @@ Before jumping into these problems, here are a couple of things that helped me:
 
 ## 🏆 Goal
 The ultimate goal is **consistent practice** — building intuition for patterns and mastering problem-solving strategies one step at a time.  
+---
+
+Roadmap credit: [Encipherio](https://www.instagram.com/encipherio?igsh=N3JueTE5NThpM2g3)
+
 
