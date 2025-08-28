@@ -1,15 +1,12 @@
 # 🚀 LeetCode DSA Progress Tracker  
 
-This repository tracks my progress in solving **LeetCode Data Structures & Algorithms (DSA) problems**.  
-The problems are categorized into topics. Currently, I’ve solved a few and added them here — this will be a continuously growing space where I’ll keep adding more solutions and patterns as I progress. 📂✨  
+This repository tracks my progress in solving **LeetCode Data Structures & Algorithms (DSA) problems**. The problems are categorized into topics. Currently, I’ve solved a few and added them here — this will be a continuously growing space where I’ll keep adding more solutions and patterns as I progress. 📂✨  
 
-Confused about where to start in **Data Structures & Algorithms (DSA)**?  
-I faced the same thing at the beginning.  
+Confused about where to start in DSA? I faced the same thing at the beginning.  
 
-Here is the **structured roadmap of 70 essential LeetCode problems**.  
-These questions cover the most important patterns.  
+Here is the **structured roadmap of 70 essential LeetCode problems**. These questions cover the most important patterns.  
 
-The strategy is clear — **master the art of recognizing patterns, and problem-solving becomes much easier with the right approach.**  
+**The strategy is clear — master the art of recognizing patterns, and problem-solving becomes much easier with the right approach.**  
 
 This repository is both my **personal progress tracker** and a **guide for anyone** who wants to build strong DSA foundations.  
 
@@ -30,23 +27,19 @@ Before jumping into these problems, here are a couple of things that helped me:
 ## ✅ Progress Checklist  
 
 ### 🔹 Array & Strings
-- [x] Contains Duplicate  
+<span style="color:green">✔</span> [Contains Duplicate](./217-contains-duplicate)
 - [x] Missing Number  
-- [x] Numbers Disappeared in Array  
-- [x] Two Sum  
-- [x] How Many Numbers Are Smaller Than Current Number  
-- [x] Minimum Time Visiting All Points  
-- [x] Spiral Matrix  
-- [x] Number of Islands  
-- [x] Best Time to Buy & Sell Stock  
-- [x] Squares of Sorted Array  
-- [x] Largest Rectangle in Array  
-- [x] Move Zeros  
-- [x] Remove Duplicates from Sorted Array  
-- [x] Number of Bits  
-- [x] XOR Operation in Array  
-- [x] Merge Sorted Array  
-- [x] Reverse String  
+- [x] Two Sum
+- [X] Move Zeros
+- [x] Remove Duplicates from Sorted Array
+- [x] Best Time to Buy & Sell Stock 
+- [ ] Numbers Disappeared in Array
+- [ ] How Many Numbers Are Smaller Than Current Number  
+- [ ] Minimum Time Visiting All Points  
+- [ ] Spiral Matrix  
+- [ ] Number of Islands   
+- [ ] Squares of Sorted Array  
+- [ ] Largest Rectangle in Array 
 
 ---
 
@@ -54,12 +47,12 @@ Before jumping into these problems, here are a couple of things that helped me:
 - [x] Middle of Linked List  
 - [x] Linked List Cycle  
 - [x] Reverse Linked List  
-- [x] Remove Linked List Elements  
-- [x] Reverse Linked List II  
-- [x] Palindrome Linked List  
-- [x] Merge Two Sorted Lists  
-- [x] Linked List Sorting  
-- [x] Remove Nth Node from End of List  
+- [ ] Remove Linked List Elements  
+- [ ] Reverse Linked List II  
+- [ ] Palindrome Linked List  
+- [ ] Merge Two Sorted Lists  
+- [ ] Linked List Sorting  
+- [ ] Remove Nth Node from End of List  
 
 ---
 
